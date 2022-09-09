@@ -35,8 +35,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
-![screenshot] (https://github.com/TobiOgunledun/team-page/blob/main/screenshot.png)
+![screenshot](https://github.com/TobiOgunledun/team-page/blob/main/screenshot.png)
 
 This is the second challenge from <a href="https://devchallenges.io">developers.io</a>. I was able to learn a specific thing in CSS while attempting this project. I learnt "writing-mode" from a fellow developer - <a href="https://github.com/Keith-Web3">Keith(A.K.A Ola)</a> at <a href="https://twitter.com/codersden94">Coders den</a>
 
