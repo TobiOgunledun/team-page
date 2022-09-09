@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://teampagedev.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/TobiOgunledun/team-page">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot]https://github.com/TobiOgunledun/team-page/blob/main/screenshot.png
 
 This is the second challenge from <a href="https://devchallenges.io">developers.io</a>. I was able to learn a specific thing in CSS while attempting this project. I learnt "writing-mode" from a fellow developer - <a href="https://github.com/Keith-Web3">Keith(A.K.A Ola)</a> at <a href="https://twitter.com/codersden94">Coders den</a>
 
@@ -68,6 +68,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://github.com/TobiOgunledun)
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [Netlify](https://teampagedev.netlify.app/)
+- GitHub [TobiOgunledun](https://github.com/TobiOgunledun)
+- Twitter [@tob140](https://twitter.com/tob140)
